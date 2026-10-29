@@ -1,7 +1,7 @@
 # Laboratorio: Desarrollo Web 2 - Practicando con Framework de JavaScript
 
 ## Datos del Estudiante
-- **Nombre Completo:** [Tu Nombre Completo Aquí]
+- **Nombre Completo:** José Daniel Guzmán Avilés
 - **Carrera / Técnico:** TSU Desarrollo de Software en Código Abierto
 - **Asignatura:** Desarrollo Web 2
 - **Tutor:** Vladimir Mate
